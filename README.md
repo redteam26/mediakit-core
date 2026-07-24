@@ -1,1 +1,1 @@
-# FaroTVPLUS
+# mediakit-core
